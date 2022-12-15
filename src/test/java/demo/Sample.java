@@ -9,4 +9,10 @@ public class Sample {
 	{
 		System.out.println("This is a sample project");
 	}
+	
+	@Test
+	public void sampleDemo2()
+	{
+		System.out.println("This is a second sample");
+	}
 }
